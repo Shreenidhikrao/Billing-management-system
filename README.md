@@ -1,7 +1,6 @@
 # Restaurant Billing Management System
 
-The Restaurant Billing Management System is a Python application that helps manage billing processes in a restaurant. It allows you to add, update and delete items from the menu, generate bills for customers and view all bills generated so far, as well as the total revenue earned.
-
+The Restaurant Billing Management System is a Python application that helps manage billing processes in a restaurant.
 ## Installation
 
 Before you can use the Restaurant Billing Management System, you need to ensure that the following packages are installed on your system:
