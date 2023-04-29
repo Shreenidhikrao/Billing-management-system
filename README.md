@@ -12,10 +12,10 @@ Before you can use the Restaurant Billing Management System, you need to ensure 
 
 To install the required packages, you can run the following command:
 
-1. 'pip install tkinter'
-2. 'pip install tempfile'
-3. 'pip install os'
-4. 'pip install random'
+1. `pip install tkinter`
+2. `pip install tempfile`
+3. `pip install os`
+4. `pip install random`
 
 
 ## Usage
